@@ -1,10 +1,6 @@
 # PUYOPUYOTETRIS (Wii U+3DS) replacement server
 Includes both the authentication and secure servers
 
-## Project status
-
-This is a source-preservation and development release. It was not recovered from a currently deployed standalone Protarium service and has not been verified bit-for-bit against a production binary. Real-console and infrastructure integration testing is still required before deployment.
-
 This independent project is not affiliated with or endorsed by Nintendo or SEGA.
 
 ## Compiling
