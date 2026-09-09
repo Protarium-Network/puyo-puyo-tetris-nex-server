@@ -69,3 +69,4 @@ GNU Affero General Public License v3.0. See `LICENSE`.
 | `PN_PUYOPUYOTETRIS_CONFIG_S3_INSECURE`         | Use HTTP for S3 endpoints                                                                       | No (Default off)                              |
 
 _Deployed and maintained as part of the [Protarium Network](https://github.com/Protarium-Network) Wii U online service revival project._
+_Derived from Pretendo Network’s original codebase (PretendoNetwork). Copyright (C) Pretendo Network contributors._
